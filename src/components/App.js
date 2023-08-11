@@ -18,7 +18,7 @@ function App() {
 
      
         <div>
-          <h3>Selected Option: {selectedOption}</h3>
+          <p>Selected Option: {selectedOption}</p>
         </div>
       
     </div>
